@@ -1,2 +1,2 @@
-# EarlyWingsDev.github.io
-The official website for EarlyWingsDev
+# wingzdev.github.io
+The official website for WingzDev
