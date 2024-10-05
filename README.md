@@ -1,2 +1,5 @@
-# wingzdev.github.io
-The official website for WingzDev
+# WingzDev
+
+Bridging Ideas and Technology: Crafting Digital Success Stories.
+
+The official website for WingzDev.
