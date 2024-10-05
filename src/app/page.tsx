@@ -35,7 +35,7 @@ export default function Home() {
             <div>
               <p className="text-base font-semibold">Dileepa Bandara</p>
               <p className="text-sm">Founder & Developer at WingzDev</p>
-              <p className="text-sm">December, 2023</p>
+              <p className="text-sm">31 December 2023</p>
             </div>
           </div>
         </div>
